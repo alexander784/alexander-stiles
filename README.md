@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @alexander784
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @alexander stiles
+- 👀 Aspiring Web developer
+- 🌱 I’m currently pursing I.T 
+- 💞️ I’m looking to collaborate with other web developers
+- 📫 How to reach me alexandernyaga199@gmail.com
 
 <!---
 alexander784/alexander784 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
